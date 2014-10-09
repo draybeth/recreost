@@ -1,0 +1,52 @@
+
+body {
+     background: #FFFFFF ;
+     margin: 0;
+	 font-size: 16px;
+	 font-family:'open_sansregular';
+}
+.main-cabezera{
+background: transparent;
+height: 3em;
+position: fixed;
+right: 0;
+left: 0;
+top: 0;
+border-bottom: 1px solid #E8E8E8;
+
+}
+.logö{
+	height: 30px;
+}
+.datos{
+	display: block;
+	height: 50px;
+}
+.main-menu{
+	
+	background: #FFFFFF;
+	position: fixed;
+	right: 84%;
+	left: 0;
+	top: 3em;
+	bottom: 0;
+	border-right: 1px solid #E8E8E8;
+	border-top: 1px solid #E8E8E8;
+	
+}
+.menu-list{
+	list-style: none;
+	margin: 0.5em;
+
+	
+}
+.menu-link{
+	/*display: inline-block;*/
+	
+	padding: 0.2em;
+	color: #878787 ;
+	font-size: 1em;
+}
+.enlace{
+	text-decoration: none;
+}
